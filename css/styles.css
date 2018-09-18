@@ -1,0 +1,45 @@
+html { 
+font-size: 15px;
+}
+
+header {
+    background: rgb(32, 31, 31);
+}
+
+h1 {
+    display: inline-block;
+    color: aliceblue;
+    margin: 1rem 0;
+}
+header img {
+    display: inline-block;
+    width: 10%;
+    min-width: 50px;
+    margin: 1rem 0;
+}
+
+.titulo {
+    color: #e0d7d7;
+}
+
+.addContent input {
+    background: rgb(213, 186, 49);
+    color: black;
+    border: 1px solid rgb(255, 218, 62);
+    border-radius: 5px;
+    width: 100%;    
+}
+
+.addContent input:focus {
+    border: 2px solid rgb(253, 253, 253);
+}
+
+.addContent button {
+    background: rgb(213, 186, 49);
+    color: #FFFFFF;
+}
+
+
+
+
+
